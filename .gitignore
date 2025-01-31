@@ -1,0 +1,5 @@
+# Ignore the ASUC Dataset CSVs folder
+ASUC Dataset CSVs/
+
+# Ignore the Cleaned Datasets folder
+Cleaned Datasets/
